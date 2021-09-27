@@ -1,4 +1,0 @@
-git reset mixed cd
-git reset HEAD<file name>
-git reset --soft cd
-ls -lrth
