@@ -1,0 +1,10 @@
+~
+~
+CREATE TABLE
+(
+     column_name_1 column_Data_type, 
+     column_name_2 column_Data_type, 
+     :
+     :
+     column_name_n column_Data_type
+);
